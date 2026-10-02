@@ -11,7 +11,7 @@ from PIL import Image
 import numpy as np
 import pydicom
 
-# ==========================================
+# ==========================================    
 # 0. PRÉPARATION COMPLÈTE (TRAIN & TEST)
 # ==========================================
 def preparer_dataset_si_besoin(source_root="./dataset_trie_patients", destination_root="./dataset_final_prêt"):

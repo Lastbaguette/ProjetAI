@@ -2,5 +2,5 @@ https://portal.imaging.datacommons.cancer.gov/explore/
 LDCT-and-Projection-data
 pip install --upgrade idc-index
 idc download <manifest filename>
-21 patient
+10 patient
 
