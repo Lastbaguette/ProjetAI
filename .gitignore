@@ -1,0 +1,9 @@
+venv/
+dataset_trie_patients/
+dataset_final_prêt/
+resultats_visuels/
+__pycache__/
+*.pyc
+ldct_and_projection_data/
+dataset_trie_patients/
+resultats_test_final/
